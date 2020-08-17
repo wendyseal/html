@@ -1,5 +1,5 @@
 # 如何在Github能夠直接顯示網頁?
-1. setting更改：<br>
+1. setting更改<br>
 >到GitHub Pages的Source   <br>
 >選擇branch:master /root
 2. 更改檔名
